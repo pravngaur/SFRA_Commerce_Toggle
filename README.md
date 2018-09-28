@@ -1,14 +1,14 @@
 # SFRA_Commerce_Toggle
 
-*Purpose*
+# *Purpose*
 Almost every merchant wants the ability to toggle off/on commerce features in their storefront. This custom plugin cartridge will enable developers/Administrators to enable/disable the commerce features.
 
 This plugin supports locale specific toggle i.e. if a merchant has a EU storefront which cateors to UK & DE. And if merchant wants to restrict German customers from placing the orders - it is possible without impacting UK customers.
 
-*Limitation*
+# *Limitation*
 This cartridge is implemented for & on top of the SFRA code, hence supports only the SFRA based storefront. Though, developers use the code from this cartridge to implement a similar solution which supports the pipeline based storefront.
 
-*Installing the Cartridge*
+# *Installing the Cartridge*
 
 CODE SETUP:
 
